@@ -1,0 +1,12 @@
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\bin\Debug\HarfTanıma.exe.config
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\bin\Debug\HarfTanıma.exe
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\bin\Debug\HarfTanıma.pdb
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.Form1.resources
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.Properties.Resources.resources
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.csproj.GenerateResource.Cache
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.exe
+e:\documents\visual studio 2015\Projects\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.pdb
+C:\Users\Mendi\Dropbox\HarfTanıma\HarfTanıma\bin\Debug\HarfTanıma.exe.config
+C:\Users\Mendi\Dropbox\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.exe
+C:\Users\Mendi\Dropbox\HarfTanıma\HarfTanıma\obj\Debug\HarfTanıma.pdb
